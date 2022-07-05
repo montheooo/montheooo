@@ -1,6 +1,6 @@
 # My docker file
 
-FROM prooph/composer:7.3
+FROM prooph/composer:7.4
 
 
 WORKDIR /app
