@@ -1,7 +1,7 @@
 ### 
 <div id="header" align="center">
   <h1>Hi there, I'm Denis 👋</h1>
-  <img src="http://intelcameroun.net/avatargithub.png" width="200" />
+  <img src="http://intelcameroun.net/devops.png" width="500" />
  
 </div>
 
